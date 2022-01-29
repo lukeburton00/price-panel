@@ -149,9 +149,3 @@ body {
   padding: 1em 2em;
   flex: 1 2 1;
 }
-
-@media (max-width: 768) {
-  .panel {
-    flex-direction: row;
-  }
-}
